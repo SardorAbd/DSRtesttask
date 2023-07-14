@@ -1,0 +1,14 @@
+{
+  "name": "techtask",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "SA",
+  "license": "MIT",
+  "dependencies": {
+    "cypress": "^12.16.0"
+  },
+  "scripts": {
+    "cypress:open":"cypress open"
+  }
+
+}
